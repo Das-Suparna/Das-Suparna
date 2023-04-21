@@ -1,22 +1,3 @@
-### Hi there 👋
-
-<!--
-**Das-Suparna/Das-Suparna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 ### Hello Everyone <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" height="25px">
 
 
@@ -25,25 +6,6 @@ Here are some ideas to get you started:
 I am Suparna Das 👩🏻
 
 </h1>
-
-
-
-<!--
-![](https://github.com/Das-Suparna/https://media.giphy.com/media/13eh2bceeTFZO8/giphy.gif.gif)
--->
-
-<div id="header" align="center">
-<img src="https://media.tenor.com/ZvSSenCwxEcAAAAC/hello.gif" height="300px"><br>
-
-<img src="https://media.tenor.com/OSnZnnqx4vsAAAAC/anime-hello.gif" height="300px"><br>
-
-  
-
-<img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
-</div>
-
----
-<br />
 
 <p style="background-color: #00000">
 
@@ -100,10 +62,6 @@ I am Suparna Das 👩🏻
 </p>
 
 
-<p>
-<a href="https://github.com/Das-Suparna">
-      <img src="https://activity-graph.herokuapp.com/graph?username=Das-Suparna&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130F40&theme=tokyonight" width="820"/></a>
-</p>
 
 ---
 
