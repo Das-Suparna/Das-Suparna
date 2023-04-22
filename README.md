@@ -31,10 +31,10 @@ I am Suparna Das 👩🏻
 
 ---
 ### My Github Badges
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png">
-
+<div style="display:flex;">
+         <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png">
+         <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png">
+</div>
 ---
 
 ### :fire: Achievements:
