@@ -50,8 +50,8 @@ I am Suparna Das 👩🏻
 
 ---
 ### :fire: My grads
-![Suparna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Das-Suparna&border=7534B2&&background=00000&theme=tokyonight&show_icons=true)
-
+<!--![Suparna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Das-Suparna&border=7534B2&&background=00000&theme=tokyonight&show_icons=true)
+-->
 
 ---
 ### :fire: My Contribution
