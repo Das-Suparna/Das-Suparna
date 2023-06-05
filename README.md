@@ -34,6 +34,7 @@ I am Suparna Das 👩🏻
 <div style="display:flex;">
          <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png">
          <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png">
+         <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png">
 </div>
 ---
 
