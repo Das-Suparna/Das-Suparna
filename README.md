@@ -64,13 +64,13 @@ I am Suparna Das 👩🏻
 
 ---
 
-<!--
-### :fire : Hactoberfest 
 
-<p>
-     (https://holopin.me/dassuparna)](https://holopin.io/@dassuparna)
-</p>
--->
+### :fire: Hactoberfest 
+
+
+[![An image of @dassuparna's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dassuparna)](https://holopin.io/@dassuparna)
+
+
 
 ### :fire: Most used Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Das-Suparna&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
