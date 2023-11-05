@@ -4,6 +4,7 @@ I am Suparna Das 👩🏻
 
 </h1>
 
+
 <p style="background-color: #00000">
 
 - 🔭 I’m currently pursuing bachelor's degree course
@@ -29,7 +30,7 @@ I am Suparna Das 👩🏻
 
 </p>
 
-
+![](https://komarev.com/ghpvc/?username=Das-Suparna)
 ---
 ### My Github Badges
 <div style="display:flex;">
